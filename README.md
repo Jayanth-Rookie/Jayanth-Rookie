@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jayanth DN</h1>
-<h3 align="center">Full-Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+<h3 align="center"> FrontEnd Developer | Open Source Contributor | Tech Enthusiast</h3>
 
 ---
 
@@ -58,4 +58,3 @@
 
 ---
 
-⭐ **Pro Tip:** Pin your best projects so they appear at the top of your profile!
