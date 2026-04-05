@@ -2,7 +2,7 @@
 
 # Hey 👋, I'm Jayanth DN
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;AWS+Certified+Cloud+Practitioner;HackFusion+2025+Winner+%F0%9F%8F%86;Building+BaOotaMadu+%E2%80%94+Restaurant+SaaS;Open+to+Internships+in+Bengaluru" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;AWS+Certified+Cloud+Practitioner;Building+BaOotaMadu+%E2%80%94+Restaurant+SaaS" alt="Typing SVG" />
 
 </div>
 
@@ -115,9 +115,9 @@
 
 ## 🏅 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jayanth-Rookie&theme=tokyonight&no-frame=false&margin-w=8&margin-h=8&column=4" />
-</div>
+</div> -->
 
 ---
 
@@ -125,6 +125,5 @@
 
 ⭐ **Star my repos if you find them useful!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayanth-Rookie&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
