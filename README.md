@@ -13,11 +13,9 @@
 - 🎓 3rd year **Information Science & Engineering** @ **JSSSTU, Mysuru**
 - 🏗️ Building **BaOotaMadu** — multi-tenant Restaurant SaaS (MERN + AWS EC2 + Docker)
 - 🏆 **HackFusion 2025 Winner** — Neural LLM (on-prem AI assistant)
-- 🏅 **Top 15 / 250+ teams** @ ADVAYA Hackathon Bengaluru — Vertex.ai
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🌱 Currently deepening: **DevOps · CI/CD · System Design**
 - 💼 Founder @ **CutCraze Media** — freelance media agency
-- 📩 Looking for: **Full Stack / DevOps Internship (with PPO conversion)**
 - 📫 Reach me: **jayanthdn6073@gmail.com**
 
 ---
@@ -66,9 +64,9 @@
 |---|---|---|
 | 🍽️ **BaOotaMadu** | Full-stack Restaurant SaaS — QR ordering, live kitchen tracking, merchant analytics, multi-tenant billing. Deployed on AWS EC2 + Docker | MERN · AWS · Docker · CI/CD |
 | 🧠 **Neural LLM** | On-prem AI assistant with RAG, doc chat, real-time collaboration. **HackFusion 2025 Winner 🏆** | React · Node.js · ChromaDB · Mistral · MCP |
-| 🏥 **Vertex.ai** | Decentralized AI healthcare — doctor search, blockchain records, mental health chatbot. **Top 15 / 250+ teams** | MERN · Ethereum · MetaMask · Gemini API |
+| 🏥 **Vertex.ai** | Decentralized AI healthcare — doctor search, blockchain records, mental health chatbot. MERN · Ethereum · MetaMask · Gemini API |
 | 🎓 **FocusFriendly.ai** | AI student productivity — flashcards, MCQ gen, focus mode, live quiz leaderboard | React · Flask · ZEGOCLOUD · Gemini |
-| 🌾 **FarmSense** | AgroTech — weather prediction, crop recommendations, bilingual interface | React · Node.js · Weather API |
+
 
 ---
 
@@ -79,10 +77,7 @@
 | | Achievement |
 |---|---|
 | 🥇 | **HackFusion 2025 Winner** — Neural LLM |
-| 🏅 | **Top 15 / 250+ teams** — ADVAYA Hackathon Bengaluru |
 | 🥉 | **3rd Place** — Project Expo 2025, JSSSTU |
-| 🎯 | **Finalist** — Symbiot 2025, VVCE |
-| 🎯 | **6th Place Finalist** — HAXLR8 Hackathon, MIT Mysore |
 | ☁️ | **AWS Certified Cloud Practitioner** |
 
 </div>
@@ -107,9 +102,7 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth-Rookie&theme=tokyo-night&hide_border=false&radius=8" width="100%"/>
-</div>
+
 
 ---
 
