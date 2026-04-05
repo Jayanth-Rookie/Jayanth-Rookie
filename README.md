@@ -10,14 +10,14 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd year **Information Science & Engineering** student @ **JSS Science and Technology University, Mysuru**
-- 🏗️ Building **[BaOotaMadu](https://github.com/Jayanth-Rookie)** — a full-stack multi-tenant Restaurant SaaS (MERN + AWS EC2 + Docker)
+- 🎓 3rd year **Information Science & Engineering** @ **JSSSTU, Mysuru**
+- 🏗️ Building **BaOotaMadu** — multi-tenant Restaurant SaaS (MERN + AWS EC2 + Docker)
 - 🏆 **HackFusion 2025 Winner** — Neural LLM (on-prem AI assistant)
-- 🏅 **Top 15/250+ teams** @ ADVAYA Hackathon Bengaluru — Vertex.ai
+- 🏅 **Top 15 / 250+ teams** @ ADVAYA Hackathon Bengaluru — Vertex.ai
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🌱 Currently deepening: **DevOps · CI/CD · System Design**
-- 💼 Founder @ **[CutCraze Media](https://www.linkedin.com/in/jayanth-dn-234514307)** — freelance media agency
-- 📩 Looking for: **Full Stack / DevOps Internship (with conversion)**
+- 💼 Founder @ **CutCraze Media** — freelance media agency
+- 📩 Looking for: **Full Stack / DevOps Internship (with PPO conversion)**
 - 📫 Reach me: **jayanthdn6073@gmail.com**
 
 ---
@@ -31,10 +31,6 @@
   &nbsp;
   <a href="mailto:jayanthdn6073@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jayanth-Rookie" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github"/>
   </a>
 </div>
 
@@ -66,13 +62,13 @@
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🍽️ **BaOotaMadu** | Full-stack Restaurant SaaS — QR ordering, live kitchen tracking, merchant analytics, multi-tenant billing | MERN · AWS EC2 · Docker · CI/CD | [Repo](https://github.com/Jayanth-Rookie) |
-| 🧠 **Neural LLM** | On-prem AI assistant with RAG, doc chat, real-time collaboration & GitHub repo analysis. **HackFusion 2025 Winner 🏆** | React · Node.js · ChromaDB · Mistral · MCP | [Repo](https://github.com/Jayanth-Rookie) |
-| 🏥 **Vertex.ai** | Decentralized AI healthcare platform — doctor search, blockchain records, mental health chatbot. **Top 15/250+ teams** | MERN · Ethereum · MetaMask · Gemini API | [Repo](https://github.com/Jayanth-Rookie/Heath-Platform) |
-| 🎓 **FocusFriendly.ai** | AI student productivity platform — flashcards, MCQ gen, focus mode, live quiz leaderboard | React · Flask · ZEGOCLOUD · Gemini | [Repo](https://github.com/Jayanth-Rookie) |
-| 🌾 **FarmSense** | AgroTech solution — weather prediction, crop recommendations, bilingual interface | React · Node.js · Weather API | [Repo](https://github.com/Jayanth-Rookie/FarmSense) |
+| Project | Description | Stack |
+|---|---|---|
+| 🍽️ **BaOotaMadu** | Full-stack Restaurant SaaS — QR ordering, live kitchen tracking, merchant analytics, multi-tenant billing. Deployed on AWS EC2 + Docker | MERN · AWS · Docker · CI/CD |
+| 🧠 **Neural LLM** | On-prem AI assistant with RAG, doc chat, real-time collaboration. **HackFusion 2025 Winner 🏆** | React · Node.js · ChromaDB · Mistral · MCP |
+| 🏥 **Vertex.ai** | Decentralized AI healthcare — doctor search, blockchain records, mental health chatbot. **Top 15 / 250+ teams** | MERN · Ethereum · MetaMask · Gemini API |
+| 🎓 **FocusFriendly.ai** | AI student productivity — flashcards, MCQ gen, focus mode, live quiz leaderboard | React · Flask · ZEGOCLOUD · Gemini |
+| 🌾 **FarmSense** | AgroTech — weather prediction, crop recommendations, bilingual interface | React · Node.js · Weather API |
 
 ---
 
@@ -80,17 +76,14 @@
 
 <div align="center">
 
-🥇 **HackFusion 2025 Winner** — Neural LLM (on-prem AI)
-
-🏅 **Top 15 / 250+ teams** — ADVAYA Hackathon Bengaluru (1000+ participants)
-
-🥉 **3rd Place** — Project Expo 2025, JSSSTU (Graph Coloring Timetable Scheduler)
-
-🎯 **Finalist** — Symbiot 2025, VVCE (FocusFriendly.ai)
-
-🎯 **6th Place Finalist** — HAXLR8 Hackathon, MIT Mysore (FarmSense)
-
-☁️ **AWS Certified Cloud Practitioner**
+| | Achievement |
+|---|---|
+| 🥇 | **HackFusion 2025 Winner** — Neural LLM |
+| 🏅 | **Top 15 / 250+ teams** — ADVAYA Hackathon Bengaluru |
+| 🥉 | **3rd Place** — Project Expo 2025, JSSSTU |
+| 🎯 | **Finalist** — Symbiot 2025, VVCE |
+| 🎯 | **6th Place Finalist** — HAXLR8 Hackathon, MIT Mysore |
+| ☁️ | **AWS Certified Cloud Practitioner** |
 
 </div>
 
@@ -99,25 +92,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jayanth-Rookie&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" height="160" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayanth-Rookie&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayanth-Rookie&show_icons=true&theme=tokyonight&border_radius=8&count_private=true" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Rookie&layout=compact&theme=tokyonight&border_radius=8&langs_count=8" height="165"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Rookie&layout=compact&theme=tokyonight&border_radius=8&langs_count=8" height="150" alt="top languages"/>
+  <img src="https://streak-stats.demolab.com?user=Jayanth-Rookie&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D" height="165"/>
 </div>
 
 ---
 
-## 👾 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayanth-Rookie/Jayanth-Rookie/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayanth-Rookie/Jayanth-Rookie/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Jayanth-Rookie/Jayanth-Rookie/output/pacman-contribution-graph.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanth-Rookie&theme=tokyo-night&hide_border=false&radius=8" width="100%"/>
 </div>
 
 ---
@@ -125,14 +116,14 @@
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayanth-Rookie&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayanth-Rookie&theme=tokyonight&no-frame=false&margin-w=8&margin-h=8&column=4" />
 </div>
 
 ---
 
 <div align="center">
 
-⭐ **If you find my projects useful, drop a star!**
+⭐ **Star my repos if you find them useful!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jayanth-Rookie&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 
