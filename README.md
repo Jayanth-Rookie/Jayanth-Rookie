@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Jayanth DN
+# Hey 👋, I'm Jayanth DN.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;AWS+Certified+Cloud+Practitioner;Building+BaOotaMadu+%E2%80%94+Restaurant+SaaS" alt="Typing SVG" />
 
