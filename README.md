@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd year **Information Science & Engineering** @ **JSSSTU, Mysuru**
+- 🎓 4th year **Information Science & Engineering** @ **JSSSTU, Mysuru**
 - 🏗️ Building **BaOotaMadu** — multi-tenant Restaurant SaaS (MERN + AWS EC2 + Docker)
 - 🏆 **HackFusion 2025 Winner** — Neural LLM (on-prem AI assistant)
 - ☁️ **AWS Certified Cloud Practitioner**
